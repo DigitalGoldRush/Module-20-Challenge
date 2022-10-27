@@ -1,6 +1,6 @@
 # Module-20-Challenge: Create & Deploy a Smart Contract with Solidity
 
-![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg)
+![https://github.com/DigitalGoldRush/Module-20-Challenge/blob/main/Images/Readme%20jpeg.jpeg](https://github.com/DigitalGoldRush/Module-20-Challenge/blob/main/Images/Readme%20jpeg.jpeg)
 
 ## 1. Overview of the Project
 
