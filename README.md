@@ -14,19 +14,19 @@ In this project, we will create a smart contract using Solidity and deploy it to
 
 ---
 
-## Deployed Contract Interactions
+## Contract Interactions
 
 ### 1. Compile & Deploy
 
-![compile & deploy gif]()
+![compile & deploy gif](https://github.com/DigitalGoldRush/Module-20-Challenge/blob/main/Images/compile%20%26%20Deploy%20JointSavings%20contract.gif)
 
 ### 2. Depositing
 
-![deposit gif]()
+![deposit gif](https://github.com/DigitalGoldRush/Module-20-Challenge/blob/main/Images/test%20account%20with%20three%20deposits.gif)
 
-### 3. Withdrawing
+### 3. Withdrawing & Terminal Output
 
-![withdraw gif]()
+![withdraw gif](https://github.com/DigitalGoldRush/Module-20-Challenge/blob/main/Images/withdrawl%20function%20and%20terminal%20ouptut.gif)
 
 ---
 
