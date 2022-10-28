@@ -44,10 +44,9 @@ In this project, we will create a smart contract using Solidity and deploy it to
 
 ## Installation Guide
 
-### Remix IDE
+### Remix IDE recommended for contract interaction
 
-https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
-
+[![Remix-IDE](https://img.shields.io/badge/Remix_IDE-1989b9?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/)
 ---
 
 ## Contributors
