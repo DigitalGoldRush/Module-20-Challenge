@@ -21,7 +21,6 @@ pragma solidity ^0.5.0;
 contract JointSavings {
    
 
-
     /*
     Inside the new contract define the following variables:
     - Two variables of type `address payable` named `accountOne` and `accountTwo`

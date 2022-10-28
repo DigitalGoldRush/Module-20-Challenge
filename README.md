@@ -14,7 +14,19 @@ In this project, we will create a smart contract using Solidity and deploy it to
 
 ---
 
-## Summary of Findings
+## Deployed Contract Interactions
+
+### 1. Compile & Deploy
+
+![compile & deploy gif]()
+
+### 2. Depositing
+
+![deposit gif]()
+
+### 3. Withdrawing
+
+![withdraw gif]()
 
 ---
 
@@ -22,7 +34,7 @@ In this project, we will create a smart contract using Solidity and deploy it to
 
 [![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/v0.8.7/)
 
-[![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/)
+[![Remix-IDE](https://img.shields.io/badge/Remix_IDE-1989b9?style=for-the-badge&logo=remix&logoColor=white)](https://remix.ethereum.org/)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigitalGoldRush?tab=repositories)
 
@@ -32,12 +44,9 @@ In this project, we will create a smart contract using Solidity and deploy it to
 
 ## Installation Guide
 
-### To install Streamlit on your local machine, run the following command in your terminal
+### Remix IDE
 
-```bash
-    pip install streamlit
-    streamlit hello
-```
+https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
 
 ---
 
